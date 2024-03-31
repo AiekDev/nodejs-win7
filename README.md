@@ -18,6 +18,7 @@ Step 3: Test if it works (for good measure)
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/82bd6dc4-6cb2-4343-9e3d-cb5ea8a657aa)
 
 Step 4: Go into control panel, navigate to "System"
+
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e6301e21-ac8a-4ca8-a7dc-8b59ab017c26)
 
 Step 5: Go into "System Protection"
