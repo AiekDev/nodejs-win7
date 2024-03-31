@@ -30,6 +30,7 @@ Step 6: After that, go into "Enviorment Variables"
 Step 7: Do what I did in the screenshot
 
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/ed7e2700-e478-4c3c-a35a-e0ea94f1648b)
+
 **For copy pasting:**
 
 User variables:
@@ -41,3 +42,9 @@ System variables:
 NODE_SKIP_PLATFORM_CHECK, 1
 
 NODE_PATH, c:\node32\node_modules
+
+
+Step 8: Go into CMD, and test it out!
+
+![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/855094da-8901-4eba-8cb3-416046fb1bd8)
+
