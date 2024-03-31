@@ -10,6 +10,7 @@ Installation:
 
 Step 1: Download your prefered build from this repository, I'll download nodejs 21 for this tutorial
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/1a66f42d-ab48-4e75-921b-edcea289c5a6)
+
 Step 2: Extract node32 into C: (CRUCIAL STEP!)
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e3c4b385-08f9-4c60-bd7d-a4ada6554879)
 Step 3: Test if it works (for good measure)
