@@ -13,14 +13,19 @@ Step 1: Download your prefered build from this repository, I'll download nodejs 
 
 Step 2: Extract node32 into C: (CRUCIAL STEP!)
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e3c4b385-08f9-4c60-bd7d-a4ada6554879)
+
 Step 3: Test if it works (for good measure)
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/82bd6dc4-6cb2-4343-9e3d-cb5ea8a657aa)
+
 Step 4: Go into control panel, navigate to "System"
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e6301e21-ac8a-4ca8-a7dc-8b59ab017c26)
+
 Step 5: Go into "System Protection"
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/4ce5224e-b9e7-469d-a9e3-3229cb71b7c2)
+
 Step 6: After that, go into "Enviorment Variables"
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e970f8d3-e4a4-45ea-845e-4221a85fb9eb)
+
 Step 7: Do what I did in the screenshot
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/ed7e2700-e478-4c3c-a35a-e0ea94f1648b)
 **For copy pasting:**
