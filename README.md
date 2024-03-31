@@ -28,6 +28,7 @@ Step 6: After that, go into "Enviorment Variables"
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/e970f8d3-e4a4-45ea-845e-4221a85fb9eb)
 
 Step 7: Do what I did in the screenshot
+
 ![image](https://github.com/AiekDev/nodejs-win7/assets/145149166/ed7e2700-e478-4c3c-a35a-e0ea94f1648b)
 **For copy pasting:**
 
