@@ -4,7 +4,7 @@
 
 ### Backporting:
 
-Will make public soon, you need to also make sure everything works well in powershell, not only CMD.
+Will make the guide public soon, you need to also make sure everything works well in powershell, not only CMD.
 
 ### Installation:
 
